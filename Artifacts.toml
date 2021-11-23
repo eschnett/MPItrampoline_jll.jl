@@ -1,0 +1,151 @@
+[[MPItrampoline]]
+arch = "aarch64"
+git-tree-sha1 = "4940c5edb7e7d93b953389b64a586ab967934718"
+libgfortran_version = "5.0.0"
+os = "macos"
+
+    [[MPItrampoline.download]]
+    sha256 = "439e16f02772e4ccdfcaec07e915684f9daa25fd51697cc5b4940c5d2d056673"
+    url = "https://github.com/eschnett/MPItrampoline_jll.jl/releases/download/MPItrampoline-v2.6.0+0/MPItrampoline.v2.6.0.aarch64-apple-darwin-libgfortran5.tar.gz"
+[[MPItrampoline]]
+arch = "aarch64"
+git-tree-sha1 = "2822fc619430492be1db71a1e2d39a1bad7ff032"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[MPItrampoline.download]]
+    sha256 = "4fbb138427be035cf72a52ebe50e35fd66daedbdc7f39e3659f2e7441253d1d5"
+    url = "https://github.com/eschnett/MPItrampoline_jll.jl/releases/download/MPItrampoline-v2.6.0+0/MPItrampoline.v2.6.0.aarch64-linux-gnu-libgfortran4.tar.gz"
+[[MPItrampoline]]
+arch = "aarch64"
+git-tree-sha1 = "2f99ffb8d65c9e0d419e666b9bde239f96e698a3"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[MPItrampoline.download]]
+    sha256 = "3e75612164383c1e521de3d5a940aaf06290de4c1b583287587f353717100486"
+    url = "https://github.com/eschnett/MPItrampoline_jll.jl/releases/download/MPItrampoline-v2.6.0+0/MPItrampoline.v2.6.0.aarch64-linux-gnu-libgfortran5.tar.gz"
+[[MPItrampoline]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "1368845b5c9fb44252fa95b815ab8561520cf177"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[MPItrampoline.download]]
+    sha256 = "0631a5e31d0ccdef4656ed96ad2773722a60b5a75fe31447d6e9723796c1aa40"
+    url = "https://github.com/eschnett/MPItrampoline_jll.jl/releases/download/MPItrampoline-v2.6.0+0/MPItrampoline.v2.6.0.armv6l-linux-gnueabihf-libgfortran4.tar.gz"
+[[MPItrampoline]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "b8bdc0c34369c1a80315c21397d5e4d04568baf1"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[MPItrampoline.download]]
+    sha256 = "7804cc3e9a4d620456380909333fa2137851a3c14c4c2cffb241a8800e462ba3"
+    url = "https://github.com/eschnett/MPItrampoline_jll.jl/releases/download/MPItrampoline-v2.6.0+0/MPItrampoline.v2.6.0.armv6l-linux-gnueabihf-libgfortran5.tar.gz"
+[[MPItrampoline]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "3afe06ebf76a77854eced2298e70da733cd8830a"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[MPItrampoline.download]]
+    sha256 = "966c6648b3c6d530d3db44e1d15b204d4d957afdb4a3c97500067d22a4871191"
+    url = "https://github.com/eschnett/MPItrampoline_jll.jl/releases/download/MPItrampoline-v2.6.0+0/MPItrampoline.v2.6.0.armv7l-linux-gnueabihf-libgfortran4.tar.gz"
+[[MPItrampoline]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "9a6693194337ca992ec3478fce2851180a642427"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[MPItrampoline.download]]
+    sha256 = "666433e6d343a8cf856b4b6064998d88df293b694025cd6a6a4bcfa1d43845c1"
+    url = "https://github.com/eschnett/MPItrampoline_jll.jl/releases/download/MPItrampoline-v2.6.0+0/MPItrampoline.v2.6.0.armv7l-linux-gnueabihf-libgfortran5.tar.gz"
+[[MPItrampoline]]
+arch = "i686"
+git-tree-sha1 = "fca9295d86637c56f59d9790d7fa511b5f6aa6d2"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[MPItrampoline.download]]
+    sha256 = "74d11565237748c3958fd0599858f415c6b49e9c40a47ad0148ec37a4ba3c67d"
+    url = "https://github.com/eschnett/MPItrampoline_jll.jl/releases/download/MPItrampoline-v2.6.0+0/MPItrampoline.v2.6.0.i686-linux-gnu-libgfortran4.tar.gz"
+[[MPItrampoline]]
+arch = "i686"
+git-tree-sha1 = "60aad075b19f48f1871cd9b85d3b98c8de456cea"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[MPItrampoline.download]]
+    sha256 = "c83ea34e4feeb2b892a2910d3f4da174c1431f8de026c116e84dfa9aebf0b3b3"
+    url = "https://github.com/eschnett/MPItrampoline_jll.jl/releases/download/MPItrampoline-v2.6.0+0/MPItrampoline.v2.6.0.i686-linux-gnu-libgfortran5.tar.gz"
+[[MPItrampoline]]
+arch = "powerpc64le"
+git-tree-sha1 = "a1dc1a5928327385679b190f187508a9068c03b3"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[MPItrampoline.download]]
+    sha256 = "bce4d0d4609b72aa77f74f20e9c5438da8f1828b1f8a8b9b2da7002756ed7548"
+    url = "https://github.com/eschnett/MPItrampoline_jll.jl/releases/download/MPItrampoline-v2.6.0+0/MPItrampoline.v2.6.0.powerpc64le-linux-gnu-libgfortran4.tar.gz"
+[[MPItrampoline]]
+arch = "powerpc64le"
+git-tree-sha1 = "937fca713f003bef4163ec3448f0560f33d5ea83"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[MPItrampoline.download]]
+    sha256 = "8e27939e19bddc88885ddb06fd606879e2e4bdfa337387864901ee569a490fa5"
+    url = "https://github.com/eschnett/MPItrampoline_jll.jl/releases/download/MPItrampoline-v2.6.0+0/MPItrampoline.v2.6.0.powerpc64le-linux-gnu-libgfortran5.tar.gz"
+[[MPItrampoline]]
+arch = "x86_64"
+git-tree-sha1 = "ee81dba4cfd41dc2dab36cb9315784a53880fe93"
+libgfortran_version = "4.0.0"
+os = "macos"
+
+    [[MPItrampoline.download]]
+    sha256 = "c5d8a1fc02a3d37903ac36ed1a109a004c709c39ea1893de61ea7bc52bcce646"
+    url = "https://github.com/eschnett/MPItrampoline_jll.jl/releases/download/MPItrampoline-v2.6.0+0/MPItrampoline.v2.6.0.x86_64-apple-darwin-libgfortran4.tar.gz"
+[[MPItrampoline]]
+arch = "x86_64"
+git-tree-sha1 = "c372e236b25287ad9ed060ffad8b3131e56e869f"
+libgfortran_version = "5.0.0"
+os = "macos"
+
+    [[MPItrampoline.download]]
+    sha256 = "eebcc245ef94b653db43a690588c0b493c5540d7fb67056ffc20c552c7167839"
+    url = "https://github.com/eschnett/MPItrampoline_jll.jl/releases/download/MPItrampoline-v2.6.0+0/MPItrampoline.v2.6.0.x86_64-apple-darwin-libgfortran5.tar.gz"
+[[MPItrampoline]]
+arch = "x86_64"
+git-tree-sha1 = "3ea946208075921c57b55f06cfc2aaf4dde37603"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[MPItrampoline.download]]
+    sha256 = "62c6a1ca22ec9406faae99acd33588eb7c3393653f0671eae5f797798b1cf171"
+    url = "https://github.com/eschnett/MPItrampoline_jll.jl/releases/download/MPItrampoline-v2.6.0+0/MPItrampoline.v2.6.0.x86_64-linux-gnu-libgfortran4.tar.gz"
+[[MPItrampoline]]
+arch = "x86_64"
+git-tree-sha1 = "a17311db89523c17f6f42a90cad5b0fa7eec5838"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[MPItrampoline.download]]
+    sha256 = "25a77f14c6cbcbb29bac0f76126ba33b00b30c67ccd0ae26961c989a66f76fc6"
+    url = "https://github.com/eschnett/MPItrampoline_jll.jl/releases/download/MPItrampoline-v2.6.0+0/MPItrampoline.v2.6.0.x86_64-linux-gnu-libgfortran5.tar.gz"
